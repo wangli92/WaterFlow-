@@ -1,0 +1,17 @@
+//
+//  HelperPrefixHeader.pch
+//  Helper
+//
+//  Created by Hailong.wang on 15/9/7.
+//  Copyright (c) 2015年 Hailong.wang. All rights reserved.
+//
+
+#ifndef Helper_HelperPrefixHeader_pch
+#define Helper_HelperPrefixHeader_pch
+
+#import "Factory.h"
+#import "MyHelper.h"
+#import "UIView+Addition.h"
+#import "BaseViewController.h"
+
+#endif
